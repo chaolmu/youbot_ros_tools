@@ -1,3 +1,4 @@
+<?xml version="1.0"?>
 <launch>
   <!-- setting param to be used later by the rviz config file -->
   <param name="robot_description"
